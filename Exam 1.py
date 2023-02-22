@@ -1,3 +1,4 @@
+#Emily Nixon
 #Mid11
 import math
 def trig (a,b,c):
